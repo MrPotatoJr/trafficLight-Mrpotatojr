@@ -9,3 +9,20 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.brillo{
+    -webkit-box-shadow: -3px 12px 148px 61px rgba(230,214,37,1);
+    -moz-box-shadow: -3px 12px 148px 61px rgba(230,214,37,1);
+    box-shadow: -3px 12px 148px 61px rgba(230,214,37,1);
+}
+.brilloRojo{
+    -webkit-box-shadow: -3px 12px 148px 43px rgba(235,9,9,1);
+-moz-box-shadow: -3px 12px 148px 43px rgba(235,9,9,1);
+box-shadow: -3px 12px 148px 43px rgba(235,9,9,1);
+
+}
+.brilloVerde{
+    -webkit-box-shadow: -3px 12px 148px 43px rgba(29,240,29,1);
+-moz-box-shadow: -3px 12px 148px 43px rgba(29,240,29,1);
+box-shadow: -3px 12px 148px 43px rgba(29,240,29,1);
+}
